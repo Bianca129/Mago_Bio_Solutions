@@ -1,0 +1,408 @@
+<resources>
+    <string name="app_name">Mago</string>
+
+    //Token
+
+    <string name="com_auth0_client_id">WWGyw3dwHEcJcLceF432O6ltdPjp0e4k</string>
+    <string name="com_auth0_domain">dev-izvg6e0c4usamzex.eu.auth0.com</string>
+    <string name="com_auth0_audience">localhost:7208</string>
+    <string name="com_auth0_scheme">app</string>
+
+    //Dashboard
+    <string name="assignedUser">Assigned user</string>
+    <string name="lastUpdate">Last update: </string>
+    <string name="update">Update</string>
+    <string name="firmware">firmware</string>
+    <string name="notifyMago">Notify Mago</string>
+    <string name="showDeviceLogs">Show device\'s logs</string>
+    <string name="metrics">Metrics</string>
+    <string name="settings">Settings</string>
+    <string name="temperature">Temperature</string>
+    <string name="firmwareUpdate">Firmware Update</string>
+    <string name="materialIn">Material In</string>
+    <string name="noMetrics">No metrics found for </string>
+    <string name="noSettings">No settings found for </string>
+    <string name="currentVersion">Current Version</string>
+    <string name="previouslyUploaded">Previously uploaded</string>
+
+    //List
+    <string name="noDevices">No devices found.</string>
+
+    //NavigationItems
+    <string name="list">List</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="admin">Admin</string>
+    <string name="account">Account</string>
+
+    //BottomSheets
+    <string name="dateTime">Date &amp; Time</string>
+    <string name="message">Message</string>
+
+
+    //Admin-Settings
+    <string name="admin_createDevice">Create Device</string>
+    <string name="admin_createUser">Create User</string>
+    <string name="admin_assignUser">Assign User</string>
+
+
+    //Account-Settings
+    <string name="acc_profile">Profile</string>
+    <string name="acc_notifications">Notifications</string>
+    <string name="acc_language">Language</string>
+    <string name="acc_userManual">User Manual</string>
+    <string name="acc_contact">Contact</string>
+    <string name="acc_privacy">Privacy Statement</string>
+
+    //ComposterState
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+    //Login
+    <string name="mago">Mago Bio Solutions</string>
+    <string name="login">Login</string>
+
+
+    //Profile
+    <string name="profile_pw">Password</string>
+    <string name="profile_logout">Logout</string>
+    <string name="newPassword">New password</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="changePassword">Change password</string>
+
+
+    //Style
+    <string name="changeValue">Change value</string>
+    <string name="change">Change</string>
+    <string name="search">Search</string>
+
+    //Toast
+    <string name="noCall">Not possible, no call for that</string>
+    <string name="notAllFields">Please fill in all fields.</string>
+    <string name="unknownError">Unknown error, try again later.</string>
+    <string name="passwordToast">Passwords do not match or not all fields are filled.</string>
+
+
+
+    //Headlines
+    <string name="myDevices">My Devices</string>
+    <string name="profile">Profile</string>
+    <string name="userManual">User Manual</string>
+    <string name="contact">Contact</string>
+    <string name="privacy">Privacy</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+
+
+    //Screens
+    <string name="selectDevice">Select device</string>
+    <string name="selectUser">Select user</string>
+    <string name="deviceType">Device type</string>
+    <string name="userType">User type</string>
+    <string name="selectUserType">Select user type</string>
+    <string name="nameComposter">Name of eComposter</string>
+    <string name="firstNameUser">First name of the user</string>
+    <string name="familyNameUser">Family name of the user</string>
+    <string name="EMail">E-Mail of the user</string>
+    <string name="createUser">Create user</string>
+
+
+    //Contact
+    <string name="subject">Subject</string>
+    <string name="email">Send e-Mail</string>
+
+
+    //Errors
+    <string name="errorCreatingDevice">Error creating device:</string>
+    <string name="errorFetchingDevice">Error fetching devices:</string>
+    <string name="errorFetchingDeviceSettings">Error fetching device settings for ID </string>
+    <string name="errorAssignUser">Error assign user to device: </string>
+
+    <string name="successFetchingDevice">Device Setting updated successfully</string>
+    <string name="successCreatingUser">User created successfully</string>
+    <string name="successAssignUser">User created successfully</string>
+    <string name="successChangePassword">Password updated successfully</string>
+    <string name="successFirmwareUpdate">Firmware Update successfully</string>
+    <string name="successCreatingDevice">Device created successfully</string>
+
+    <string name="errorNoPhoneCall">Cannot make a phone call on this device.</string>
+    <string name="errorAuthentication">Authentication failed. Please try again.</string>
+    <string name="unexpectedError">An unexpected error occurred.</string>
+
+    //UserManual (in Dutch)
+    <string name="userManual_1">Gebruikershandleiding voor MAGO eComposter App</string>
+    <string name="userManual_2">Inleiding:</string>
+    <string name="userManual_3">Welkom bij de MAGO eComposter app! Deze handleiding zal u door de basisfuncties leiden om uw eComposter apparaat effectief te monitoren en te beheren.</string>
+
+    <string name="userManual_4">Installatie:</string>
+    <string name="userManual_5">1.	Download de MAGO eComposter app van de App Store of Google Play.</string>
+    <string name="userManual_6">2.	Open de app en maak een account aan of log in met bestaande gegevens.</string>
+    <string name="userManual_7">3.	Voeg uw eComposter apparaat toe door op \'Mijn apparaten\' te klikken en de instructies te volgen.</string>
+
+    <string name="userManual_8">Dashboard:</string>
+    <string name="userManual_9">Het dashboard geeft u een overzicht van alle belangrijke informatie van uw eComposter.</string>
+    <string name="userManual_10">•	Temperatuur: Toont de huidige temperatuur binnen de eComposter.</string>
+    <string name="userManual_11">•	Totale Energie Geproduceerd: Geeft aan hoeveel energie uw apparaat heeft gegenereerd.</string>
+    <string name="userManual_12">•	Totale Verminderde CO2: Laat zien hoeveel CO2-uitstoot is verminderd door het gebruik van uw apparaat.</string>
+    <string name="userManual_13">•	Materiaal In: De hoeveelheid materiaal die is toegevoegd aan de eComposter.</string>
+    <string name="userManual_14">•	Materiaal Uit: De hoeveelheid verwerkt materiaal dat uit de eComposter is gehaald.</string>
+    <string name="userManual_15">•	Huidige Energieproductie: De huidige energieproductie in watt.</string>
+    <string name="userManual_16">•	Totale Pellets: Het totaalgewicht van geproduceerde pellets.</string>
+    <string name="userManual_17">•	Resterende Pellets: Het gewicht van de pellets die nog in de eComposter zitten.</string>
+
+    <string name="userManual_18">Mijn Apparaten:</string>
+    <string name="userManual_19">Hier kunt u al uw aangesloten eComposter apparaten zien. U kunt nieuwe apparaten toevoegen of bestaande apparaten beheren.</string>
+
+    <string name="userManual_20">Grafieken:</string>
+    <string name="userManual_21">•	Tik op een categorie (Temperatuur, Energie, CO2, Input) om gedetailleerde grafieken te zien.</string>
+    <string name="userManual_22">•	Filter de gegevens op dag, week of maand om trends te analyseren.</string>
+    <string name="userManual_23">•	Gebruik de downloadknop om gegevens op te slaan voor verder gebruik.</string>
+
+    <string name="userManual_24">Navigatie:</string>
+    <string name="userManual_25">•	Lijst: Toont een lijst van al uw apparaten.</string>
+    <string name="userManual_26">•	Dashboard: Keert terug naar het hoofddashboard.</string>
+    <string name="userManual_27">•	Account: Waar u uw gebruikersinstellingen kunt beheren.</string>
+
+    <string name="userManual_28">Instellingen:</string>
+    <string name="userManual_29">1.	Om uw apparaatinstellingen aan te passen, klikt u op \'Bewerken\' in de rechterbovenhoek van het dashboard.</string>
+    <string name="userManual_30">2.	Hier kunt u de naam van uw eComposter wijzigen en andere apparaatspecifieke instellingen aanpassen.</string>
+
+    <string name="userManual_31">Ondersteuning:</string>
+    <string name="userManual_32">Als u technische ondersteuning nodig heeft, kunt u de helpsectie in de app gebruiken of contact opnemen met de klantenservice via de MAGO eComposterwebsite.</string>
+
+    <string name="userManual_33">Slot:</string>
+    <string name="userManual_34">Met de MAGO eComposter app heeft u altijd controle over uw composteerproces. Volg deze eenvoudige stappen om uw impact op het milieu te vergroten en te profiteren van hernieuwbare energie.</string>
+    <string name="userManual_35">Voor deze handleiding heb ik de functionaliteiten en navigatie-opties geïnterpreteerd gebaseerd op de screenshots. Zorg ervoor dat u de app test en deze handleiding bijwerkt met de specifieke stappen en instructies die van toepassing zijn op de werkelijke functionaliteiten van de app.</string>
+
+    <string name="userManual_36">Installatie:</string>
+    <string name="userManual_37">Download de MAGO.eco app van de App Store of Google Play.</string>
+    <string name="userManual_38">Open de app en maak een account aan of log in met bestaande gegevens.</string>
+    <string name="userManual_39">Voeg uw eComposter apparaat toe door op \'Mijn apparaten\' te klikken en de instructies te volgen.</string>
+
+    <string name="userManual_40">Dashboard:</string>
+    <string name="userManual_41">Het dashboard geeft u een overzicht van alle belangrijke informatie van uw eComposter.</string>
+
+    <string name="userManual_42">Temperatuur: Toont de huidige temperatuur binnen de eComposter.</string>
+    <string name="userManual_43">Totale Energie Geproduceerd: Geeft aan hoeveel energie uw apparaat heeft gegenereerd.</string>
+    <string name="userManual_44">Totale Verminderde CO2: Laat zien hoeveel CO2-uitstoot is verminderd door het gebruik van uw apparaat.</string>
+    <string name="userManual_45">Materiaal In: De hoeveelheid materiaal die is toegevoegd aan de eComposter.</string>
+    <string name="userManual_46">Materiaal Uit: De hoeveelheid verwerkt materiaal dat uit de eComposter is gehaald.</string>
+    <string name="userManual_47">Huidige Energieproductie: De huidige energieproductie in watt.</string>
+    <string name="userManual_48">Totale Pellets: Het totaalgewicht van geproduceerde pellets.</string>
+    <string name="userManual_49">Resterende Pellets: Het gewicht van de pellets die nog in de eComposter zitten.</string>
+
+    <string name="userManual_50">Mijn Apparaten:</string>
+    <string name="userManual_51">Hier kunt u al uw aangesloten eComposter apparaten zien. U kunt nieuwe apparaten toevoegen of bestaande apparaten beheren.</string>
+
+    <string name="userManual_52">Grafieken:</string>
+    <string name="userManual_53">Tik op een categorie (Temperatuur, Energie, CO2, Input) om gedetailleerde grafieken te zien.</string>
+    <string name="userManual_54">Filter de gegevens op dag, week of maand om trends te analyseren.</string>
+    <string name="userManual_55">Gebruik de downloadknop om gegevens op te slaan voor verder gebruik.</string>
+
+    <string name="userManual_56">Navigatie:</string>
+    <string name="userManual_57">Lijst: Toont een lijst van al uw apparaten.</string>
+    <string name="userManual_58">Dashboard: Keert terug naar het hoofddashboard.</string>
+    <string name="userManual_59">Account: Waar u uw gebruikersinstellingen kunt beheren.</string>
+    <string name="userManual_60">Instellingen:</string>
+    <string name="userManual_61">Om uw apparaatinstellingen aan te passen, klikt u op \'Bewerken\' in de rechterbovenhoek van het dashboard.</string>
+    <string name="userManual_62">Hier kunt u de naam van uw eComposter wijzigen en andere apparaatspecifieke instellingen aanpassen.</string>
+
+    <string name="userManual_63">Ondersteuning:</string>
+    <string name="userManual_64">Als u technische ondersteuning nodig heeft, kunt u de helpsectie in de app gebruiken of contact opnemen met de klantenservice via de MAGO.eco website.</string>
+
+    <string name="userManual_65">Slot:</string>
+    <string name="userManual_66">Met de MAGO.eco app heeft u altijd controle over uw composteerproces. Volg deze eenvoudige stappen om uw impact op het milieu te vergroten en te profiteren van hernieuwbare energie.</string>
+
+
+    <!-- Privacy Statement (in Dutch) -->
+    <!-- Privacy statement Mago -->
+    <string name="privacyStatement_1">Privacy statement Mago</string>
+    <string name="privacyStatement_2">Inleiding</string>
+    <string name="privacyStatement_3">Mago neemt jouw privacy zeer serieus en zal informatie over jou (de betrokkene) op een veilige manier verwerken en gebruiken. In dit Privacy Statement leggen wij je uit welke gegevens wij verwerken, en met welk doel we dat doen. Daarnaast kun je in dit Privacy Statement lezen over jouw rechten met betrekking tot onze verwerking van jouw persoonsgegevens. We raden je aan dit Privacy Statement aandachtig door te nemen. Voor vragen kun je altijd contact opnemen met info@mago.eco.</string>
+
+    <!-- Wie is Mago? -->
+    <string name="privacyStatement_4">Wie is Mago?</string>
+    <string name="privacyStatement_5">Mago is de besloten vennootschap Mago Bio Solutions BV, kantoorhoudende te (2105RE) Heemstede aan Spinozalaan 1, ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer 77486358.</string>
+    <string name="privacyStatement_6">Wanneer Mago jouw persoonsgegevens verwerkt, is Mago de verwerkingsverantwoordelijke.</string>
+
+    <!-- Hoe gebruikt Mago jouw gegevens? -->
+    <string name="privacyStatement_7">Hoe gebruikt Mago jouw gegevens?</string>
+
+    <!-- Dienstverlening, klantenbeheer en financiële administratie -->
+    <string name="privacyStatement_8">Doeleinde: Financiële administratie</string>
+    <string name="privacyStatement_9">Gegevens: Bedrijfsnaam, Factuuradres, Bankgegevens (Naam bank/IBAN/BIC)</string>
+    <string name="privacyStatement_10">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_11">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <string name="privacyStatement_12">Doeleinde: Facturatie</string>
+    <string name="privacyStatement_13">Gegevens: Bedrijfsnaam, Factuuradres, Bankgegevens (Naam bank/IBAN/BIC)</string>
+    <string name="privacyStatement_14">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_15">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Beheer van bestellingen -->
+    <string name="privacyStatement_16">Doeleinde: Beheer van bestellingen</string>
+    <string name="privacyStatement_17">Gegevens: NAW-gegevens, Leveringadres, Factuuradres, E-mailadres, Telefoonnummer, Betalingsgegevens, Accountnummer, Bestellingnummer, Inhoud van de klacht, KvK-nummer, BTW-nummer, Klantnummer</string>
+    <string name="privacyStatement_18">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_19">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Afhandelen klachten over het product -->
+    <string name="privacyStatement_20">Doeleinde: Afhandelen klachten over het product</string>
+    <string name="privacyStatement_21">Gegevens: NAW-gegevens, Leveringadres, Factuuradres, E-mailadres, Telefoonnummer, Betalingsgegevens, Accountnummer, Bestellingnummer, Inhoud van de klacht, KvK-nummer, BTW-nummer, Klantnummer</string>
+    <string name="privacyStatement_22">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_23">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Verlenen van de dienst zelf -->
+    <string name="privacyStatement_24">Doeleinde: Verlenen van de dienst zelf</string>
+    <string name="privacyStatement_25">Gegevens: NAW-gegevens, E-mailadres, Dossiergegevens, Gegevens die nodig zijn om de dienst te leveren, Gegevens die tijdens de dienst gegenereerd worden</string>
+    <string name="privacyStatement_26">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_27">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+
+    <!-- DoeIeinde: Afhandelen klachten over de dienst -->
+    <string name="privacyStatement_28">Doeleinde: Afhandelen klachten over de dienst</string>
+    <string name="privacyStatement_29">Gegevens: NAW-gegevens, E-mailadres, Dossiergegevens, Gegevens die nodig zijn om de dienst te leveren, Gegevens die tijdens de dienst gegenereerd worden</string>
+    <string name="privacyStatement_30">Grondslag: Uitvoering van de overeenkomst</string>
+    <string name="privacyStatement_31">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: CRM -->
+    <string name="privacyStatement_32">Doeleinde: CRM</string>
+    <string name="privacyStatement_33">Gegevens: Naam, E-mailadres, Locatie, Social media account, Telefoonnummer</string>
+    <string name="privacyStatement_34">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_35">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_36">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Sollicitatie -->
+    <string name="privacyStatement_37">Doeleinde: Sollicitatie</string>
+    <string name="privacyStatement_38">Gegevens: Naam, E-mailadres, Locatie, Social media account, Telefoonnummer</string>
+    <string name="privacyStatement_39">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_40">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_41">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Direct marketing -->
+    <string name="privacyStatement_42">Doeleinde: Direct marketing</string>
+    <string name="privacyStatement_43">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_44">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_45">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_46">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Affiliate marketing -->
+    <string name="privacyStatement_47">DoeIeinde: Affiliate marketing</string>
+    <string name="privacyStatement_48">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_49">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_50">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_51">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Nieuwsbrief -->
+    <string name="privacyStatement_52">DoeIeinde: Nieuwsbrief</string>
+    <string name="privacyStatement_53">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_54">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_55">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_56">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Retargeting -->
+    <string name="privacyStatement_57">DoeIeinde: Retargeting</string>
+    <string name="privacyStatement_58">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_59">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_60">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_61">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Social media marketing -->
+    <string name="privacyStatement_62">DoeIeinde: Social media marketing</string>
+    <string name="privacyStatement_63">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_64">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_65">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_66">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Behavioural targeting -->
+    <string name="privacyStatement_67">DoeIeinde: Behavioural targeting</string>
+    <string name="privacyStatement_68">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_69">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_70">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_71">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Loyaliteitsprogramma -->
+    <string name="privacyStatement_72">DoeIeinde: Loyaliteitsprogramma</string>
+    <string name="privacyStatement_73">Gegevens: Naam, NAW-gegevens, E-mailadres, Telefoonnummer, Klikgedrag, Surfgedrag, Interesse in een product, Social media account, Bestelgeschiedenis, Post/factuuradres</string>
+    <string name="privacyStatement_74">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_75">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_76">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Website analytics -->
+    <string name="privacyStatement_77">DoeIeinde: Website analytics</string>
+    <string name="privacyStatement_78">Gegevens: Surfgedrag, Locatie</string>
+    <string name="privacyStatement_79">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_80">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_81">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: A/B testing -->
+    <string name="privacyStatement_82">DoeIeinde: A/B testing</string>
+    <string name="privacyStatement_83">Gegevens: Surfgedrag, Locatie</string>
+    <string name="privacyStatement_84">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_85">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_86">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- Onderzoek & Ontwikkeling -->
+    <!-- DoeIeinde: Marktonderzoek -->
+    <string name="privacyStatement_87">DoeIeinde: Marktonderzoek</string>
+    <string name="privacyStatement_88">Gegevens: Gewoonten, NAW-gegevens, E-mailadres, Telefoonnummer, Gegevens over het gedrag</string>
+    <string name="privacyStatement_89">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_90">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_91">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+    <!-- DoeIeinde: Wetenschappelijk onderzoek -->
+    <string name="privacyStatement_92">DoeIeinde: Wetenschappelijk onderzoek</string>
+    <string name="privacyStatement_93">Gegevens: Gewoonten, NAW-gegevens, E-mailadres, Telefoonnummer, Gegevens over het gedrag</string>
+    <string name="privacyStatement_94">Grondslag: Gerechtvaardigd belang</string>
+    <string name="privacyStatement_95">Betrokken belang: Commercieel belang</string>
+    <string name="privacyStatement_96">Bewaartermijn: Zo lang als noodzakelijk voor dit doeleinde</string>
+
+
+    <!-- Hoe verkrijgt Mago jouw persoonsgegevens? -->
+    <string name="privacyStatement_97">Hoe verkrijgt Mago jouw persoonsgegevens?</string>
+    <string name="privacyStatement_98">Mago heeft gegevens over jou in bezit, omdat jij die gegevens aan ons verstrekt hebt.</string>
+
+    <!-- Wat zijn jouw rechten? -->
+    <string name="privacyStatement_99">Wat zijn jouw rechten?</string>
+    <string name="privacyStatement_100">Onder de Europese Algemene Verordening Gegevensbescherming beschik je over een aantal rechten met betrekking tot jouw gegevens en de verwerking ervan:</string>
+
+    <!-- Inzage -->
+    <string name="privacyStatement_101">Inzage</string>
+    <string name="privacyStatement_102">Je kunt je eigen (persoons)gegevens altijd bekijken en zo nodig wijzigen in je account. Als je de persoonsgegevens wilt zien die bij Mago over je zijn vastgelegd, kun je een verzoek tot inzage doen.</string>
+
+    <!-- Wijzigen -->
+    <string name="privacyStatement_103">Wijzigen</string>
+    <string name="privacyStatement_104">Als je veranderingen wilt aanbrengen in de persoonsgegevens die je hebt gezien naar aanleiding van een inzageverzoek en die je niet zelf in je account kan veranderen, kun je een verzoek hiertoe doen bij Mago. Je kunt verzoeken dat Mago je gegevens wijzigt, verbetert, aanvult, verwijdert of afschermt.</string>
+
+    <!-- Beperken van de verwerking -->
+    <string name="privacyStatement_105">Beperken van de verwerking</string>
+    <string name="privacyStatement_106">Je hebt daarnaast, onder voorwaarden, het recht om Mago te verzoeken de verwerking van je persoonsgegevens te beperken.</string>
+
+    <!-- Recht van bezwaar -->
+    <string name="privacyStatement_107">Recht van bezwaar</string>
+    <string name="privacyStatement_108">Als een bepaalde verwerking op grond van het ‘gerechtvaardigd belang’ van Mago of een derde plaatsvindt, heb je het recht om bezwaar te maken tegen die verwerking.</string>
+
+    <!-- Gegevensoverdracht -->
+    <string name="privacyStatement_109">Gegevensoverdracht</string>
+    <string name="privacyStatement_110">Je hebt het recht jouw persoonsgegevens van Mago te verkrijgen. Mago zal deze verstrekken in een gestructureerde en gangbare vorm, die op eenvoudige wijze in andere gangbare digitale systemen te openen valt. Op deze manier kun je jouw gegevens ook bij een andere aanbieder onderbrengen.</string>
+
+    <!-- Toestemming intrekken -->
+    <string name="privacyStatement_111">Toestemming intrekken</string>
+    <string name="privacyStatement_112">In alle gevallen waarin de grondslag voor een bepaalde gegevensverwerking jouw toestemming is, heb je het recht die toestemming in te trekken. Dat heeft voor het verleden geen gevolgen, maar betekent wel dat wij die gegevens dan niet meer mogen verwerken. Het kan zijn dat Mago je daardoor bepaalde diensten niet meer kan leveren.</string>
+
+    <!-- Reactie door Mago -->
+    <string name="privacyStatement_113">Reactie door Mago</string>
+    <string name="privacyStatement_114">Een verzoek kan verstuurd worden naar info@mago.eco. Mago zal je verzoek zo snel mogelijk inwilligen en in elk geval niet later dan één (1) maand nadat Mago een dergelijk verzoek heeft ontvangen. Indien Mago je verzoek afwijst zullen wij in ons antwoord aangeven waarom het verzoek wordt afgewezen.</string>
+
+    <!-- Ontvangers van de persoonsgegevens -->
+    <string name="privacyStatement_115">Ontvangers van de persoonsgegevens</string>
+    <string name="privacyStatement_116">Het kan zijn dat Mago verplicht is je gegevens te verstrekken aan een derde partij, bijvoorbeeld op grond van een wettelijke verplichting.</string>
+
+    <!-- Kan dit Privacy Statement worden gewijzigd? -->
+    <string name="privacyStatement_117">Kan dit Privacy Statement worden gewijzigd?</string>
+    <string name="privacyStatement_118">Dit Privacy Statement kan worden gewijzigd. Wij adviseren je daarom regelmatig het Privacy Statement na te lezen op eventuele wijzigingen.</string>
+
+    <!-- Waar kan je terecht met klachten en vragen? -->
+    <string name="privacyStatement_119">Waar kan je terecht met klachten en vragen?</string>
+    <string name="privacyStatement_120">Mocht je nog vragen hebben over dit Privacy Statement en de wijze waarop Mago je gegevens gebruikt, dan kun je een e-mail sturen naar info@mago.eco. Ook als je een klacht hebt over de manier waarop Mago jouw gegevens verwerkt, kun je een e-mail sturen naar info@mago.eco. Daarnaast kan je ook altijd contact opnemen met de bevoegde nationale toezichthouder op het gebied van privacybescherming. In Nederland is dit de Autoriteit Persoonsgegevens.</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <shape android:shape="oval">
+      <solid android:color="@color/ComplementaryGreen"/> <!-- Farbe für den Kreis -->
+    </shape>
+  </item>
+
+  <item>
+  <vector
+      android:width="29dp"
+      android:height="29dp"
+      android:viewportWidth="24"
+      android:viewportHeight="24">
+    <path
+        android:pathData="M12,12q-0.425,0 -0.713,-0.288T11,11L11,3q0,-0.425 0.288,-0.713T12,2q0.425,0 0.713,0.288T13,3v8q0,0.425 -0.288,0.713T12,12ZM12,21q-1.875,0 -3.513,-0.713t-2.85,-1.924q-1.212,-1.213 -1.924,-2.85T3,12q0,-1.525 0.5,-2.963T4.95,6.4q0.275,-0.35 0.7,-0.338t0.75,0.338q0.275,0.275 0.25,0.675t-0.275,0.75Q5.7,8.725 5.35,9.8T5,12q0,2.925 2.038,4.963T12,19q2.925,0 4.963,-2.038T19,12q0,-1.15 -0.338,-2.238T17.6,7.775q-0.25,-0.325 -0.275,-0.713t0.25,-0.662q0.3,-0.3 0.725,-0.313t0.7,0.313q0.975,1.2 1.488,2.625T21,12q0,1.875 -0.713,3.513t-1.924,2.85q-1.213,1.212 -2.85,1.925T12,21Z"
+        android:fillColor="@color/ComplementaryGrey"/>
+  </vector>
+  </item>
+</layer-list>
+
+
+
+
