@@ -23,22 +23,22 @@ The successful development of the frontend of the mobile application contributes
 For further information on the eComposters visit the official website of Mago Bio Solutions: https://www.mago.eco/
 
 
-<table>
+<table style="width: 100%;">
   <tr>
     <td align="center" width="33%" style="vertical-align: top; height: 240px;">
-      <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px;"><br>
+      <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px; height: 240px;"><br>
         <div style="height: 60px; overflow-y: auto;">      
             <em>List of devices you have access - here you are logged in as an admin and see all existing devices. Color coding for seeing issues.</em>
         </div>   
     </td>
     <td align="center" width="33%" style="vertical-align: top; height: 240px;">
-      <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px; "><br>
+      <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px; height: 240px;"><br>
         <div style="height: 60px; overflow-y: auto;">
             <em>Search for devices</em>
         </div>
     </td>
-     <td align="center" width="33%" style="vertical-align: top; height: 240px;">
-      <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px;"><br>
+     <td align="center" width="33%" style="vertical-align: top; ">
+      <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px; height: 240px;"><br>
         <div style="height: 60px; overflow-y: auto;">      
             <em>Filter list with devices</em>
         </div>
