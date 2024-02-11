@@ -25,41 +25,41 @@ For further information on the eComposters visit the official website of Mago Bi
 
 <table>
   <tr>
-    <td align="center" width="33%" style="vertical-align: top;">
-      <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px; height: 600px"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+    <td align="center" width="33%" style="vertical-align: top; height: 200px;">
+      <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px;"><br>
+        <div style="height: 60px; overflow-y: auto;">      
             <em>List of devices you have access - here you are logged in as an admin and see all existing devices. Color coding for seeing issues.</em>
         </div>   
     </td>
-    <td align="center" width="33%" style="vertical-align: top;">
-      <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px;  height: 600px"><br>
-        <div style="height: 120px; overflow-y: auto;">
+    <td align="center" width="33%" style="vertical-align: top; height: 200px;">
+      <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px; "><br>
+        <div style="height: 60px; overflow-y: auto;">
             <em>Search for devices</em>
         </div>
     </td>
-     <td align="center" width="33%" style="vertical-align: top;">
-      <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px; height: 600px"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+     <td align="center" width="33%" style="vertical-align: top; height: 200px;">
+      <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px;"><br>
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Filter list with devices</em>
         </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" style="vertical-align: top;">
-      <img src="Demo Images/2 - Dashboard Error.jpg" alt="Dashboard Error" style="width: 100%; max-width: 200px; height: 600px"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+      <img src="Demo Images/2 - Dashboard Error.jpg" alt="Dashboard Error" style="width: 100%; max-width: 200px;"><br>
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Dashboard with color coding - this machine has an error</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2 - Dashboard Warning.jpg" alt="Dashboard warining" style="width: 100%; max-width: 200px;"><br> 
-        <div style="height: 120px; overflow-y: auto;">
+        <div style="height: 60px; overflow-y: auto;">
             <em>Dashboard with color coding - this machine has a warning</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2 - Dashboard Warning Logs.jpg" alt="Logs with warning" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Logs of an eComposter</em>
         </div>
     </td>
@@ -68,19 +68,19 @@ For further information on the eComposters visit the official website of Mago Bi
   <tr>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_1 - Detail Temp weekly.jpg" alt="Temperature weekly" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Temperature weekly with a diagram</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_1 Detail Temp monthly.jpg" alt="Temperature monthly" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Temperature monthly with a diagram</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_2 - Detail Input weekly.jpg" alt="Input weekly" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Input weekly with a diagram</em>
         </div>
     </td>
@@ -88,19 +88,19 @@ For further information on the eComposters visit the official website of Mago Bi
   <tr>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_2 - Detail Input monthly.jpg" alt="Input monthly" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Input monthly with a diagram</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3 - Admin Page.jpg" alt="Admin page" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>Admin rights</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_1 - Create Device.jpg" alt="create device" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>An admin can create a new device</em>
         </div>
     </td>
@@ -109,19 +109,19 @@ For further information on the eComposters visit the official website of Mago Bi
   <tr>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_2 - Create User.jpg" alt="create user" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>An admin can create a user</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_3 - Assign User.jpg" alt="assign user" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>An admin can assign a user to a device</em>
         </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_3_1 - Assign User.jpg" alt="assign user" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 120px; overflow-y: auto;">      
+        <div style="height: 60px; overflow-y: auto;">      
             <em>This is how it looks like when assign a user to a device.</em>
         </div>
     </td>
