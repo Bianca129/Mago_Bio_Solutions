@@ -25,73 +25,73 @@ For further information on the eComposters visit the official website of Mago Bi
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px;"><br>
       <em>List of devices you have access - here you are logged in as an admin and see all existing devices. Color coding for seeing issues.</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px;"><br>
       <em>Search for devices</em>
     </td>
-     <td align="center" width="33%">
+     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px;"><br>
       <em>Filter list with devices</em>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2 - Dashboard Error.jpg" alt="Dashboard Error" style="width: 100%; max-width: 200px;"><br>
       <em>Dashboard with color coding - this machine has an error</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2 - Dashboard Warning.jpg" alt="Dashboard warining" style="width: 100%; max-width: 200px;"><br>
       <em>Dashboard with color coding - this machine has a warning</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2 - Dashboard Warning Logs.jpg" alt="Logs with warning" style="width: 100%; max-width: 200px;"><br>
       <em>Logs of an eComposter</em>
     </td>
 
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_1 - Detail Temp weekly.jpg" alt="Temperature weekly" style="width: 100%; max-width: 200px;"><br>
       <em>Temperature weekly with a diagram</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_1 Detail Temp monthly.jpg" alt="Temperature monthly" style="width: 100%; max-width: 200px;"><br>
       <em>Temperature monthly with a diagram</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_2 - Detail Input weekly.jpg" alt="Input weekly" style="width: 100%; max-width: 200px;"><br>
       <em>Input weekly with a diagram</em>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/2_2 - Detail Input monthly.jpg" alt="Input monthly" style="width: 100%; max-width: 200px;"><br>
       <em>Input monthly with a diagram</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3 - Admin Page.jpg" alt="Admin page" style="width: 100%; max-width: 200px;"><br>
       <em>Admin rights</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_1 - Create Device.jpg" alt="create device" style="width: 100%; max-width: 200px;"><br>
       <em>An admin can create a new device</em>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_2 - Create User.jpg" alt="create user" style="width: 100%; max-width: 200px;"><br>
       <em>An admin can create a user</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_3 - Assign User.jpg" alt="assign user" style="width: 100%; max-width: 200px;"><br>
       <em>An admin can assign a user to a device</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_3_1 - Assign User.jpg" alt="assign user" style="width: 100%; max-width: 200px;"><br>
       <em>This is how it looks like when assign a user to a device.</em>
     </td>
