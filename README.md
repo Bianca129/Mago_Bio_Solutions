@@ -34,7 +34,7 @@ For further information on the eComposters visit the official website of Mago Bi
     <td align="center" width="33%" style="vertical-align: top; height: 300px;">
       <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px;"><br>
       <div style="height: 60px; overflow-y: auto;">
-        <em>Search for devices</em>
+        <em>Search for devices \n /n </em>
       </div>
     </td>
     <td align="center" width="33%" style="vertical-align: top; height: 300px;">
