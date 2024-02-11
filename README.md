@@ -25,21 +25,13 @@ For further information on the eComposters visit the official website of Mago Bi
 
 <table style="width: 100%;">
   <tr>
-    <td align="center" width="33%" style="vertical-align: top; height: 300px;">
-      <div style="background-color: red; padding: 10px;">
-        <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px;"><br>
-        <div style="height: 60px; overflow-y: auto;">      
-          <em>List of devices you have access - here you are logged in as an admin and see all existing devices. Color coding for seeing issues.</em>
-        </div>
-      </div>
+    <td align="center" width="33%" style="vertical-align: top; height: 500px;">
+      <img src="Demo Images/1 - List Devices.jpg" alt="List Devices" style="width: 100%; max-width: 200px;"><br>
+        <em>List of devices you have access - here you are logged in as an admin and see all existing devices. Color coding for seeing issues.</em>
     </td>
-        <td align="center" width="33%" style="vertical-align: top; height: 300px;">
-      <div style="background-color: red; padding: 10px;">
+    <td align="center" width="33%" style="vertical-align: top; height: 300px;">
       <img src="Demo Images/1_1 - List Devices Search.jpg" alt="Search List" style="width: 100%; max-width: 200px; color: red"><br>
- <div style="height: 60px; overflow-y: auto;">            
-<em>Search for devices </em>
-</div>
-</div>
+        <em>Search for devices </em>
     </td>
     <td align="center" width="33%" style="vertical-align: top; height: 300px;">
       <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px;"><br>
