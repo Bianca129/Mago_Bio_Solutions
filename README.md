@@ -35,7 +35,7 @@ For further information on the eComposters visit the official website of Mago Bi
     </td>
     <td align="center" width="33%" style="vertical-align: top; height: 300px;">
       <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" style="width: 100%; max-width: 200px;"><br>
-        <em>The whole list of devices is filtered and only showing the devices which has an error</em>
+        <em>The whole list of devices is filtered and it's only showing the devices which has an error. Here only one device.</em>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ For further information on the eComposters visit the official website of Mago Bi
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_1 - Create Device.jpg" alt="create device" style="width: 100%; max-width: 200px;"><br>
         <div style="height: 60px; overflow-y: auto;">      
-            <em>An admin can create a new device by selecting a device type and enter a name for the machine</em>
+            <em>An admin can create a new device by selecting a device type & entering a name.</em>
         </div>
     </td>
   </tr>
