@@ -34,48 +34,67 @@ For further information on the eComposters visit the official website of Mago Bi
       <em>Search for devices</em>
     </td>
      <td align="center" width="33%">
-      <img src="Screenshots/2 - MainPage - Lightmode deutsch.jpg" alt="Main Page with all listed articles - Lightmode" width="200"><br>
-      <em>Main Page with all listed articles - Lightmode</em>
+      <img src="Demo Images/1_2 - List Devices Filter.jpg" alt="Filter list with devices" width="200"><br>
+      <em>Filter list with devices</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="Screenshots/3 - FavoritePage - Lightmode deutsch.jpg" alt="Liked articles" width="200"><br>
-      <em>Liked Articles Screen</em>
+      <img src="Demo Images/2 - Dashboard Error.jpg" alt="Dashboard Error" width="200"><br>
+      <em>Dashboard with color coding - this machine has an error</em>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshots/4 - DetailPage - Lightmode.jpg" alt="Detailpage" width="200"><br>
-      <em>Detailpage of an article</em>
+      <img src="Demo Images/2 - Dashboard Warning.jpg" alt="Dashboard warining" width="200"><br>
+      <em>Dashboard with color coding - this machine has a warning</em>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshots/4_1 - DetailPage - Lightmode Share Like.jpg" alt="Share Like" width="200"><br>
-      <em>Detailpage of an article with share icon and like icon</em>
+      <img src="Demo Images/2 - Dashboard Warning Logs.jpg" alt="Logs with warning" width="200"><br>
+      <em>Logs of an eComposter</em>
+    </td>
+
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Demo Images/2_1 - Detail Temp weekly.jpg" alt="Temperature weekly" width="200"><br>
+      <em>Temperature weekly with a diagram</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="Demo Images/2_1 Detail Temp monthly.jpg" alt="Temperature monthly" width="200"><br>
+      <em>Temperature monthly with a diagram</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="Demo Images/2_2 - Detail Input weekly.jpg" alt="Input weekly" width="200"><br>
+      <em>Input weekly with a diagram</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="Screenshots/4_2 - DetailPage - Lightmode Share.jpg" alt="share" width="200"><br>
-      <em>Share article</em>
+      <img src="Demo Images/2_2 - Detail Input monthly.jpg" alt="Input monthly" width="200"><br>
+      <em>Input monthly with a diagram</em>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshots/5 - Articles from Category Algemeen - Lightmode.jpg" alt="Category browse" width="200"><br>
-      <em>All articles from Category "Algemeen"</em>
+      <img src="Demo Images/3 - Admin Page.jpg" alt="Admin page" width="200"><br>
+      <em>Admin rights</em>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshots/6 - LoggedInPage - LightMode deutsch.jpg" alt="LoggedInPage" width="200"><br>
-      <em>Page when you are logged in - Lightmode</em>
+      <img src="Demo Images/3_1 - Create Device.jpg" alt="create device" width="200"><br>
+      <em>An admin can create a new device</em>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="33%">
-      <img src="Screenshots/6 - LoginPage - Darkmode deutsch.jpg" alt="LoginPage Darkmode" width="200"><br>
-      <em>Page to login - Darkmode</em>
+      <img src="Demo Images/3_2 - Create User.jpg" alt="create user" width="200"><br>
+      <em>An admin can create a user</em>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshots/6 - LoginPage - Lightmode deutsch.jpg" alt="LoginPage Lightmode" width="200"><br>
-      <em>Page to login - Lightmode</em>
+      <img src="Demo Images/3_3 - Assign User.jpg" alt="assign user" width="200"><br>
+      <em>An admin can assign a user to a device</em>
     </td>
-  
+    <td align="center" width="33%">
+      <img src="Demo Images/3_3_1 - Assign User.jpg" alt="assign user" width="200"><br>
+      <em>This is how it looks like when assign a user to a device.</em>
+    </td>
   </tr>
 </table>
 
