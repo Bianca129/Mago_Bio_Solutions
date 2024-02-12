@@ -95,7 +95,7 @@ For further information on the eComposters visit the official website of Mago Bi
     <td align="center" width="33%" style="vertical-align: top;">
       <img src="Demo Images/3_1 - Create Device.jpg" alt="create device" style="width: 100%; max-width: 200px;"><br>
         <div style="height: 60px; overflow-y: auto;">      
-            <em>An admin can create a new device by selecting a device type & entering a name.</em>
+            <em>An admin can create a new device by filling out this form.</em>
         </div>
     </td>
   </tr>
